@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181530705061",
+    "firebase_url": "https://wdw-viewmodel-vision.firebaseio.com",
+    "project_id": "wdw-viewmodel-vision",
+    "storage_bucket": "wdw-viewmodel-vision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181530705061:android:242b03701cec270cf8e14c",
+        "android_client_info": {
+          "package_name": "ar.com.maribelmai.wdw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181530705061-8877roqtankfiucoogevp2ht6lv2ealm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmedm0CCsH4lAxwiiH6Pf5dSzNuIV7R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181530705061-8877roqtankfiucoogevp2ht6lv2ealm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

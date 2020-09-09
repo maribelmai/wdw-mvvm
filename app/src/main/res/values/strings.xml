@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WDW</string>
+    <string name="error_filesystem">Cannot access file system :(</string>
+</resources>
