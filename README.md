@@ -7,4 +7,4 @@ Used technologies:
 - ViewModel
 - LiveData
 - Unit testing: JUnit, Mockito
-- ML Kit: Image Labeler
+- Firebase ML Kit: Image Labeler
